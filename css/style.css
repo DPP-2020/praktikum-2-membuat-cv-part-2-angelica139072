@@ -29,5 +29,23 @@ p.normal {
   .invisible {
     visibility: hidden;
   }
-  
+  .navbar{
+    background-color:rgb(0, 69, 78);
+  }
+  .masthead{
+    background-color: rgb(8, 216, 206);
+  }
+  .card{
+    color: black;
+    margin-left: 20px;
+  }
+  .hobi{
+    margin-top: 60px;
+  }
+  .h1{
+    color:rgb(0, 69, 78);
+  }
+  .h3{
+    color:rgb(0, 69, 78);
+  }
   
