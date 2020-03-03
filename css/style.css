@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(8, 216, 206);
+}
+.h-divider{
+ margin-top:5px;
+ margin-bottom:5px;
+ height:1px;
+ width:100%;
+ border-top:1px solid gray;
+}
+.bs-example{
+    margin: 20px;
+}
+p.normal {
+    font-style: normal;
+  }
+  
+  p.italic {
+    font-style: italic;
+  }
+  
+  p.oblique {
+    font-style: oblique;
+  }
+
+  .visible {
+    visibility: visible;
+  }
+  .invisible {
+    visibility: hidden;
+  }
+  
+  
